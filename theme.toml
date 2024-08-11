@@ -3,9 +3,9 @@
 
 name = "Lightbi"
 license = "MIT"
-licenselink = "https://github.com/turbulynx/lightbi-hugo/blob/master/LICENSE"
+licenselink = "https://github.com/binokochumolvarghese/lightbi-hugo/blob/master/LICENSE"
 description = "A minimal and clean blog theme for Hugo."
-homepage = "https://github.com/turbulynx/lightbi-hugo"
+homepage = "https://github.com/binokochumolvarghese/lightbi-hugo"
 tags = [
   "blog", 
   "bootstrap",
