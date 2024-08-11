@@ -1,3 +1,11 @@
+<style>
+  .centered-text {
+      color: white;
+      background-color: #928f8f; /* Dark grey */
+      text-align: center;
+      padding: 20px; /* Optional: Adds some padding around the text */
+  }
+</style>
 {{ if or .Params.socialShare (and .Site.Params.socialShare (ne .Params.socialShare false)) }}
 <!-- Social Share Button HTML -->
 <div>
@@ -70,4 +78,4 @@
 </div>
 {{ end }}
 
-<p class="text-muted">It makes me smile, when I see it.</p>
+<p class="centered-text">Machine that converts ☕ ➡️ </> </p>
