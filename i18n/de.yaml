@@ -37,7 +37,7 @@
 
 # Footer
 - id: poweredBy # Accepts HTML
-  translation: 'Erstellt mit <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/turbulynx/lightbi-hugo">Lightbi.</a>&nbsp; Mit ❤ gemacht von <a href="https://binovarghese.com">Bino</a>'
+  translation: 'Erstellt mit <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/turbulynx/lightbi-hugo">Lightbi.</a>&nbsp; Mit ❤ gemacht von <a href="https://turbulynx.com">Bino</a>'
 
 # Navigation
 - id: toggleNavigation

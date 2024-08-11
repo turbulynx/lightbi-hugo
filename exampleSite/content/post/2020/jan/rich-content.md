@@ -34,15 +34,15 @@ You want to include a single tweet into your blog post? Everything you need is t
 Twitter url:
 
 ```
-https://twitter.com/binovarghese_/status/1758148486510317907
+https://twitter.com/turbulynx/status/1758148486510317907
 ```
 
 Shortcode:
 ```
-{{</* twitter user="binovarghese_" id="1758148486510317907" */>}}
+{{</* twitter user="turbulynx" id="1758148486510317907" */>}}
 ```
 
 Rendered:
-{{< twitter user="binovarghese_" id="1758148486510317907" >}}
+{{< twitter user="turbulynx" id="1758148486510317907" >}}
 
 <!--Photo by Dimitri Houtteman on Unsplash-->

@@ -43,8 +43,8 @@ features = [
 min_version = "0.41.0"
 
 [author]
-  name = "Bino Kochumol Varghese"
-  homepage = "https://binovarghese.com/"
+  name = "turbulynx"
+  homepage = "https://turbulynx.com/"
 
 # If porting an existing theme
 [original]
